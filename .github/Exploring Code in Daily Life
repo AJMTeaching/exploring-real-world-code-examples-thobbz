@@ -1,0 +1,38 @@
+Prose Blurbs For Exploration:
+1. Code that specifies when an alarm clock should start making audible sounds.
+[Link]:https://github.com/Ajinkyap22/Alarm/blob/master/alarm.py (lines 12-26)
+Description: This linked code shows when an alarm clock should start making audible sounds. It does so by showing how to set the alarm in seconds, hours, or minutes, as well as how to convert one into the other. After being set at a certain time, there is a code for when the sound is supposed to go off at the set time.
+2. Code for a rocket targeting system.
+[Link]: https://github.com/filipodu982/proportionalNavigation/blob/master/proportionalNavigation.py (lines 6-48)
+Description: This link shows a step-by-step explanation of how each code assists the rocket in finding its target. Such codes consist of setting certain altitudes and velocities to navigate a rocket toward its target, using proportional navigation.
+3. File compression utility algorithm
+[Link]:https://github.com/HadeelMabrouk/Compression-Utility/blob/master/Source.cpp (line 70-130)
+Description: The code in lines 7-130 shows how you can compress a file but stringing the file name and file bin
+4. Weather forecasting algorithm.
+[link]: https://github.com/Naman-Bhalla/Weather_Forecasting_Sliding_Window_Algorithm/blob/master/main.py (lines 5-112)
+Description: This link uses the Sliding Window Algorithm to code for weather forecasting. It does so by coding things such as what distance, date/time, and types of weather that are in a public forecast. It also codes for predictions to make the forecast more accurate
+5. E-commerce checkout system process
+[Link]:https://github.com/vinita2000/E-Commerce-website-using-html-css-Js/blob/master/web1/checkout.html (line 11-113)
+Description: In the checkout folder of this link it shows the process of how a checkout page comes to be. Specifically, in line 17, there's a code that consists of the shopping cart page, as well as pricing, payment, shipping, etc. It also codes for different countries that are included in the shipping
+6. Social media post scheduler.
+[Link]:https://github.com/theju/smp/blob/master/scheduler/views.py (lines 12-21)
+Description: This link shows a way to code for scheduling a post by coding for filter options in a post that asks for a scheduled time and date the user wants to upload the post
+7. Fitness app calorie counter.
+[Link]:https://github.com/numanshaikh25/Django-food-calorie-counter/blob/master/caloriecounter/views.py (line 38-138)
+Description: Inside a fitness app to count calories, there are a multitude of steps that need to be followed. This link shows how to code for requests to put in calories from foods a user submits into the system. 
+8. Online voting system mechanics
+[Link]:https://github.com/ChoiceCoin/Voting/blob/main/voting_process/voting.py (lines 96-126)
+Description: This link shows how a voter can submit their votes by putting in their info and showing them the candidates. There's a specific code that allows the voter to choose either yes or no, and with each vote, it collects all of the tallies for each candidate
+9. Automated email response system
+[Link]:https://github.com/oumasamzz/AUtoMAil/blob/main/automail/automail.py (line 67-110)
+Description: In this link, the created functions would find all unread emails, process them, and form a reply. After the reply is made, a code is created to send the reply and create a loop that reads and processes certain emails and sends automated responses to them.
+My examples:
+10. Pinterest image download
+[Link]:https://github.com/kamronbek29/pinterst_downloader/blob/master/pinterest-downloader.py (lines 32-36)
+Description: Pinterest is a social media platform that allows users to collect videos or images molded to their taste. This link shows how one would use the function of downloading an image from Pinterest to your device
+11 Personalized Spotify playlist
+[Link]:https://github.com/Dun-sin/HearItFresh/blob/main/src/components/GeneratePlaylist.jsx (line 2-32)
+Description: The music streaming app Spotify creates Personalized playlists that consist of different genres, songs, and artists based on users listening history. This link shows different functions that can be used to create a personalized playlist
+12. Game animation
+[Link]:https://github.com/jcornaz/benimator/blob/main/examples/bevy.rs(line 5-65)
+Description: This link shows how a game would code for animations by creating a function that the user would want to animate and then commanding the created character to do the animation.
